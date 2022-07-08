@@ -1,0 +1,11 @@
+.out
+
+*.swp
+
+~*
+
+_betty-s
+
+_betty-d
+
+_putchar.c
