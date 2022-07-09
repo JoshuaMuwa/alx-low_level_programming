@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "holberton.h"
+#include "main.h"
 /**
  * main - entry point
  * Description: prints the numbers 1 - 100 w/
@@ -26,6 +26,6 @@ if (i < 100)
 printf(" ");
 }
 printf("\n");
-
 return (0);
+
 }
